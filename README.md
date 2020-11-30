@@ -4,7 +4,7 @@
 <ul>
     <li>Studying <b>Psychology</b> at Dagon University.</li>
     <li>Self-Learning programming languages to be a <b> Professional Web Developer</b>.</li>
-    <li>After Learning this, will be learning Native Development such as React Native.</li>
+    <li>After Learning this, will be learning .....⚠️ </li>
 </ul>
 <h3><b>👨‍💻 Technical Skill Set</b></h3>
 <ul>

@@ -2,7 +2,7 @@
 <h3>I'm <b>Min La Pyae</b> 😎 </h3>
 <h3><b>🤗 About Me</b></h3>
 <ul>
-    <li>Studying <b>Psychology</b> at Dagon University.</li>
+    <li>Currently <b>Schooling</b>.</li>
     <li>Self-Learning programming languages to be a <b> Professional Web Developer</b>.</li>
     <li>After Learning this, will be learning .....⚠️ </li>
 </ul>

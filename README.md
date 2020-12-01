@@ -7,11 +7,9 @@
     <li>After Learning this, will be learning .....⚠️ </li>
 </ul>
 <h3><b>👨‍💻 Technical Skill Set</b></h3>
-<ul>
-    
+<ul>   
     <li> 
-       <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"> 
-      
+       <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;" />      
         <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"> 
         <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width:100%;"> 
         <img align="left" alt="Bulma" width="18px" src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" style="max-width:100%;"> 
@@ -19,8 +17,7 @@
         <img align="left" alt="Jquery" width="26px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" style="max-width:100%;"> 
         <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"> 
         <img align="left" alt="PHP" width="30px"  src="https://www.php.net/images/logos/new-php-logo.svg" style="max-width:100%;"> and More! 
-    </li>
-    
+    </li>    
   <li> 
         <img align="left" alt="Mongo" width="30px"  src="https://4.bp.blogspot.com/-X7UPkOQjQuQ/WuHLUEM7SDI/AAAAAAAAAOY/rXGXSOfPP2ckF_cSOC3C5d3B_BhIgNcxACLcBGAs/s1600/mongodb%2B%25282%2529.png" style="max-width:100%;" >
                  <img align="left" alt="Firebase" width="26px"  src="https://img.icons8.com/color/452/firebase.png" style="max-width:100%;" >

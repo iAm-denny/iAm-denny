@@ -24,7 +24,7 @@
 <!--         <img  alt="MariaDB" width="26px"  src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" " >  -->
       </li>
     <li> 
-<img  alt="GraphQL" width="26px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Fngtvgkc85gnDO6vXPTtmQUNshFDt0fIpw&usqp=CAU" > &nbsp; 
+<img  alt="GraphQL" width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" > &nbsp; 
 <img  alt="Apollo" width="40px" height="20px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/landscape/apollo-seeklogo.com_%281%29.png" >  
     </li>
 <!--     <li> 

@@ -9,7 +9,7 @@
 <h3><b>👨‍💻 Technical Skill Set</b></h3>
 <ul>   
     <li> 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;" />      
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />      
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"> 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width:100%;"> 
 <img align="left" alt="Bulma" width="18px" src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" style="max-width:100%;"> 
@@ -19,8 +19,8 @@
 <img align="left" alt="PHP" width="30px" height="26px"  src="https://www.php.net/images/logos/new-php-logo.svg" style="max-width:100%;"> <b>and More!</b> 
     </li>    
     <li>
-        <img align="left" alt="Mongo" width="26px"  src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png" style="max-width:100%;" >
-        <img align="left" alt="Firebase" width="26px"  src="https://img.icons8.com/color/452/firebase.png" style="max-width:100%;" > <img align="left" alt="MariaDB" width="26px"  src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" style="max-width:100%;" > </li>
+        <img align="left" alt="Mongo" width="26px"  src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png" >
+        <img align="left" alt="Firebase" width="26px"  src="https://img.icons8.com/color/452/firebase.png" style="max-width:100%;" > <img align="left" alt="MariaDB" width="26px"  src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" " > </li>
     <li> 
 <img align="left" alt="GraphQL" width="26px"  src="https://banner2.cleanpng.com/20180415/ptq/kisspng-graphql-query-language-representational-state-tran-github-5ad35d73740d43.7369115215238014594754.jpg" style="max-width:100%;" >      
 <img align="left" alt="Apollo" width="40px" height="20px"  src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/landscape/apollo-seeklogo.com_%281%29.png" style="max-width:100%;" > 

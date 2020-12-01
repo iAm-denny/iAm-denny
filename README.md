@@ -32,7 +32,7 @@
 <img  alt="Grunt" width="26px" src="https://gruntjs.com/img/og.png"> 
     </li> -->
     <li>
-<img  alt="Git" width="26px" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"  > 
+<img  alt="Git" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  > 
  </li>
 </ul>
 <h3>and More! </h3>

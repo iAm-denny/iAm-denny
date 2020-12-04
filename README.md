@@ -17,6 +17,7 @@
 <!-- <img  alt="Jquery" width="26px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" style="max-width:100%;"> &nbsp;   -->
 <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" > &nbsp; 
 <!-- <img  alt="PHP" width="30px" height="26px"  src="https://www.php.net/images/logos/new-php-logo.svg">  -->
+        and elephant too! :)))
     </li>    
     <li>
         <img  alt="Mongo" width="30px" src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png"> &nbsp; 

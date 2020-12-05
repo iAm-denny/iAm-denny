@@ -3,7 +3,7 @@
 <h3><b>🤗 About Me</b></h3>
 <ul>
     <li>Currently <b>Schooling</b>.</li>
-    <li>Self-Learning programming languages to be a <b> Professional Web Developer</b>.</li>
+    <li>Self-Learning programming languages to be a <b>Professional .....⚠️</b>.</li>
     <li>After Learning this, will be learning .....⚠️ </li>
 </ul>
 <h3><b>👨‍💻 Technical Skills Set</b></h3>
